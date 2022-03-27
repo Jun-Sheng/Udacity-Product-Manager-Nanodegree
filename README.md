@@ -1,11 +1,19 @@
 # Udacity-Product-Manager-Nanodegree
 It is a Nanodegree offered by Udacity where you learn to become a Product Manager.
 
-Details:
+Overview:
 
 Product Managers are responsible for designing and delivering a profitable product or feature into the market. In this program, you will learn to define product strategy and KPIs based on market analysis, pitch a product vision to get stakeholder buy-in, and design a user-centered prototype that adheres to engineering constraints. Then, you will develop an execution timeline that handles competing priorities, communicate a product roadmap that builds consensus amongst internal stakeholders, and create a comprehensive go-to-market plan based on product KPIs. Finally, you will build tests to enhance product features based on market data.
 
 Link to Course on Udacity: https://www.udacity.com/course/product-manager-nanodegree--nd036
+
+What you will learn: 
+
+In this Nanodegree program, you will become exposed to the foundational skills of a product manager to take a product from idea to launch. Through hands-on exercises, you will be provided with opportunities to apply product management frameworks, tools, and methodologies across strategy, design, development, and marketing. As you go through the program, you will work on projects that allow you to take a software product through its entire lifecycle, simulating typical scenarios and decisions that a product manager would face when delivering a new product into the market. After completing this program, you will have driven the discovery, design, development, and delivery stages of a proposed software product.
+
+Moreover, you will learn from experienced product managers who have had hands-on experience leading the development of industry-leading software at some of the world’s most renowned tech companies like Uber, Google, and FutureAdvisor. In addition, you will have the opportunity to experience the various challenges and opportunities that product managers face when launching both B2B and B2C products.
+
+The skills gained in this Nanodegree Program will not only prepare you with the hard skills of being a product manager but also empower you with the soft skills to work cross-functionally in order to bring software products to market in an organization. Whether you are an aspiring product manager looking to transition into Product at a tech company or a product owner looking to better understand what it takes to manage software product development, Udacity’s Product Manager Nanodegree Program will equip you to lead the development of new software products within an organization.
 
 Syllabus:
 1. Product Strategy
