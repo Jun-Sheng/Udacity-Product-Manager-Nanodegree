@@ -1,7 +1,8 @@
 # Udacity-Product-Manager-Nanodegree
 It is a Nanodegree offered by Udacity where you learn to become a Product Manager.
 
-Details: 
+Details:
+
 Product Managers are responsible for designing and delivering a profitable product or feature into the market. In this program, you will learn to define product strategy and KPIs based on market analysis, pitch a product vision to get stakeholder buy-in, and design a user-centered prototype that adheres to engineering constraints. Then, you will develop an execution timeline that handles competing priorities, communicate a product roadmap that builds consensus amongst internal stakeholders, and create a comprehensive go-to-market plan based on product KPIs. Finally, you will build tests to enhance product features based on market data.
 
 Link to Course on Udacity: https://www.udacity.com/course/product-manager-nanodegree--nd036
